@@ -17,7 +17,8 @@ Welcome to my data portfolio! Here, I document the projects I’ve worked in the
 
 | Project Link | Area | Tools | Description |
 | ------------ | ---- | ----- | ----------- |
-| [Revenue & Product Analysis for a Digital SaaS](https://github.com/rosaliehuang/saas-revenue-analysis) | Data Wrangling & EDA | Python (Pandas), Seaborn, Matplotlib | Analyzed a fictional SaaS platform for creators selling digital products. Explored revenue trends, product performance, and pricing strategies to offer actionable recommendations. Focused on EDA, business storytelling, and translating raw data into growth-focused insights. |
+| [Revenue & Product Analysis for a Digital SaaS](https://github.com/rosaliehuang/saas-revenue-analysis) | Data Wrangling & EDA | Pandas, Seaborn, Matplotlib | Analyzed a fictional SaaS platform for creators selling digital products. Explored revenue trends, product performance, and pricing strategies to offer actionable recommendations. Focused on EDA, business storytelling, and translating raw data into growth-focused insights. |
+| [Taylor Swift Lyrics Sentiment Analysis](https://github.com/rosaliehuang/ts-lyrics-analysis) | NLP & Sentiment Analysis	 | Pandas, Seaborn, Matplotlib, Textblob | Used Python and TextBlob to analyze Taylor Swift’s lyrics across multiple albums, uncovering shifts in sentiment, tone, and themes over time. The project included cleaning raw lyrics data, scoring sentiment by song, and visualizing emotional trends with Seaborn and Matplotlib. |
 
 ---
 
