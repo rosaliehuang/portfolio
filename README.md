@@ -1,6 +1,6 @@
 # 🌟 Rosalie’s Portfolio
 
-Welcome to my data portfolio! Here, I document the projects I’ve worked in the data field.
+Welcome to my data portfolio! Here, I document the projects I’ve worked on in the data field.
 
 ---
 
