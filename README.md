@@ -42,5 +42,5 @@ Welcome to my data portfolio! Here, I document the projects I’ve worked on in 
 
 | Project Link | Tool Used | Description |
 | ------------ | ----------| ----------- |
-| [GDP vs Life Expectancy Analysis](https://github.com/rosaliehuang/life-expectancy-and-GDP-starter) | Pandas, NumPy, Matplotlib, Seaborn | Explored the relationship between GDP and life expectancy across six countries (2000–2015). Created clear visualizations to uncover trends and patterns.
+| [GDP vs Life Expectancy Analysis](https://github.com/rosaliehuang/life-expectancy-and-GDP) | Pandas, NumPy, Matplotlib, Seaborn | Explored the relationship between GDP and life expectancy across six countries (2000–2015). Created clear visualizations to uncover trends and patterns.
 
