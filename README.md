@@ -10,7 +10,6 @@ Welcome to my data portfolio! Here, I document the projects I’ve worked on in 
 - [SQL](#sql)
 - [Tableau](#tableau)
 - [Data Science & Machine Learning](#data-science--machine-learning)
-- [Data Visualization](#data-visualization)
 
 ---
 
