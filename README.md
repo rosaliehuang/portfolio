@@ -35,7 +35,8 @@ Welcome to my data portfolio! Here, I document the projects I’ve worked on in 
 
 | Project Link | Area of Analysis | Description |
 | ------------ | ---------------- | ----------- |
-| 🌳 NYC Trees & Income | Analyzed data from the NYC Tree Census and household income datasets to explore the relationship between environmental distribution and socioeconomic patterns across New York City. Processed and joined datasets by ZIP code to compare tree density, health, and age with income levels. Visualized insights in Tableau through interactive maps, scatter plots, and summary dashboards to uncover how greenery and wealth intersect across boroughs. | [Dashboard](https://public.tableau.com/views/TreeMoneyinNYC_17601979976000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+| 🌳 NYC Trees & Income | Visualized NYC street tree data in Tableau after basic preprocessing. The dashboard highlights tree distribution by borough, species diversity, and health conditions, revealing patterns in urban forestry and city maintenance efforts. | [Dashboard](https://public.tableau.com/views/TreeMoneyinNYC_17601979976000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+| 🦅 Airplane Wildlife Strikes | Visualized data on airplane wildlife strikes (2001–2015) in Tableau. The dashboard explores which airports had the highest strike costs, most collisions, and largest passenger volumes, revealing the massive impact of a few costly incidents. | [Dashboard](https://public.tableau.com/shared/C2MH22CHT?:display_count=n&:origin=viz_share_link) |
 
 ---
 
