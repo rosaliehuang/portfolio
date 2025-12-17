@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I document the projects I’ve worked on in 
 
 | Project Link | Area of Analysis | Description |
 | ------------ | ---------------- | ----------- |
-[🎯 Churn Analysis](https://github.com/rosaliehuang/user-churn-codeflix) | Retention & User Behavior | Analyzed early-stage churn trends for a fictional streaming startup using SQL (CTEs, CASE, joins)|
+🎯 [Churn Analysis](https://github.com/rosaliehuang/user-churn-codeflix) | Retention & User Behavior | Analyzed early-stage churn trends for a fictional streaming startup using SQL (CTEs, CASE, joins)|
 
 ---
 
