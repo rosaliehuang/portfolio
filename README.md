@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I document the projects I’ve worked on in 
 
 | Project Link | Area of Analysis | Description |
 | ------------ | ---------------- | ----------- |
-| *Coming soon* | - | - |
+[Codeflix SQL Churn Analysis](https://github.com/yourusername/sql-user-churn-codeflix) | Retention & User Behavior | Analyzed early-stage churn trends for a fictional streaming startup. Compared retention between two user segments using SQL (CTEs, CASE, joins), and identified the stronger-performing acquisition channel. Finished with actionable business insight. |
 
 ---
 
