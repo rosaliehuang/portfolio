@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document the projects I’ve worked on in 
 
 | Project Link | Area of Analysis | Description |
 | ------------ | ---------------- | ----------- |
-🎯 [Churn Analysis](https://github.com/rosaliehuang/user-churn-codeflix) | Retention & User Behavior | Analyzed early-stage churn trends for a fictional streaming startup using SQL (CTEs, CASE, joins)|
+🎯 [Codecademy SQL Projects](https://github.com/rosaliehuang/Codecademy-SQL-Projects/tree/main) | User Churn Data, Marketing Attribution, Gaming trends | This repo serves as the solution for my Codecademy SQL projects. It showcases my proficiency in SQL query writing and problem-solving skills.|
 
 ## Tableau
 
