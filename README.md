@@ -1,6 +1,10 @@
-# 🌟 Rosalie’s Portfolio
+# 🌟 Rosalie’s Data Portfolio
 
-Welcome to my data portfolio! Here, I document the projects I’ve worked on in the data field.
+Welcome to my data portfolio! Here, I showcase hands-on projects in Python, SQL, and Tableau, focusing on data analysis, business insights, and data visualization.
+
+My projects explore how data can help uncover patterns, understand business performance, and support better decision-making.
+
+Interested in my product and project management experience? [Explore my Product Portfolio on Notion](https://tangible-beech-6a1.notion.site/Rosalie-Huang-Portfolio-4348aaf8ed97825d9bed818d85248b04?source=copy_link).
 
 ## 📚 Table of Contents
 
